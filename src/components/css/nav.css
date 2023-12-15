@@ -1,0 +1,16 @@
+/* Nav Stylesheet */
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    background-color: #f1f1f1;
+}
+
+.nav ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+
+}

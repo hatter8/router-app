@@ -1,0 +1,65 @@
+
+
+.dash-cont{
+    width: 100%;
+}
+
+.dash-wrapper{
+    border: 3px solid blue;
+    border-radius: .3em;
+    padding: 2em;
+    display: flex;
+    gap: 1em;
+    flex-grow: 1;
+
+}
+
+.left-col{
+    border: 2px solid #f1f1f1;
+    padding: 2em;
+}
+
+.left-col ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.right-col{
+    padding: 2em;
+    border: 2px solid #f1f1f1;
+}
+
+.dash{
+    background-color: #E9EEFF;
+}
+
+
+
+
+.dash__nav{
+    list-style: none;
+}
+
+.link-item{
+    background-color: #f1f1f1;
+    padding: .5em 1.5em;
+    margin: 1em 0;
+}
+
+.link-item:hover{
+    background-color:  rgba(0, 0, 0, 0.2);
+}
+
+/* Router Link styles */
+.nav-link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+    text-transform: uppercase;
+    font-size: .8rem;
+    font-weight: 700;
+}
+
+.active-link{
+    background-color: #F2C348;
+}
