@@ -7,6 +7,8 @@ export default function About() {
             <>
                 <div className="">
                     <h2>About Page</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat unde rem fugiat, repudiandae soluta molestias harum? Numquam a ipsam ex nulla, quidem quod tempore, praesentium exercitationem doloremque maiores non nam!</p>
+                                    
                 </div>
             </>
         )
