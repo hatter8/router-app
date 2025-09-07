@@ -11,8 +11,7 @@ export default function About() {
                     <div>
                         <article>
                             <h3>Article heading</h3> 
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, sequi?</p>  
-                            <button>Learn more</button> 
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, sequi?</p>   
                         </article>    
                     </div>                
                 </div>
